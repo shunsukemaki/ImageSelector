@@ -1,2 +1,1 @@
-# ImageSelector
-# ImageSelector
+# UIImageViewをスクロースして選択するView
